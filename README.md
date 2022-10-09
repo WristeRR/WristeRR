@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WristeRR
 - 👀 I’m interested in Front end Web development mainly in CSS and Js 
-- 🌱 I’m currently freshman in Btech Information Technology at Manipal University Jaipur 
+- 🌱 I’m currently Sophmore Information Technology at Manipal University Jaipur 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
