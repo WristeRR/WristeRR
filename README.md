@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Tailwind CSS , C++**
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **Cars and Games**
 
 - 📫 How to reach me **bartakeabhi@gmail.com**
 
